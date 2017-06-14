@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export><version>3.2</version><date>2017-06-14T05:55:09Z</date><groups><group><name>Templates</name></group></groups><templates><template><template>Template SNMP Device</template><name>Template SNMP Device</name><description/><groups><group><name>Templates</name></group></groups><applications/><items/><discovery_rules/><httptests/><macros/><templates><template><name>Template SNMP Generic</name></template><template><name>Template SNMP Interfaces</name></template></templates><screens/></template></templates></zabbix_export>
